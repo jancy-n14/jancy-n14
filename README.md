@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Jancy N 👋
 
-<!--
-**jancy-n14/jancy-n14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | SQL | Excel | Python | Power BI
+Welcome to my GitHub profile! 📊
+I am building my career in Data Analytics and developing practical skills in SQL, Excel, Python, Power BI, and Statistics.
+I enjoy working with data to clean, analyze, visualize, and communicate meaningful insights.
 
-Here are some ideas to get you started:
+🛠️ Skills
+Data Analysis
+SQL
+Excel
+Python
+Statistics
+Data Visualization & BI
+Power BI
+Data Visualization
+Dashboards
+DAX
+SQL
+PostgreSQL
+Data Cleaning
+Joins
+Aggregations
+Window Functions
+Python
+Pandas
+NumPy
+Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Featured Project :
+
+Business Loan Approval Analysis
+Tools: PostgreSQL, SQL
+
+Analysis of historical business loan data to understand borrower repayment patterns and factors associated with different loan outcomes.
+
+🔗 [View Project →](https://github.com/jancy-n14/business-loan-approval-analysis)
+
+📂 Portfolio
+
+🔗 [View My Data Analytics Portfolio →](https://github.com/jancy-n14/data-analytics-portfolio)
+
+🤝 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jancy-n-9a1459178/)
+
+⭐ Thank you for visiting my profile!
